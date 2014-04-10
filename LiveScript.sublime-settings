@@ -1,6 +1,6 @@
 {
     // Path to livescript.  Defaults to sublime's path
-    "livescript_path": "",
+    "livescript_path": "/usr/local/bin/",
     // The actual binary.
-    "livescript_bin": ""
+    "livescript_bin": "/usr/local/bin/lsc"
 }
