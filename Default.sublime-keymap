@@ -1,3 +1,3 @@
 [
-    {"keys": ["shift+ctrl+l"], "command": "live_script"}
+    {"keys": ["shift+command+l"], "command": "live_script"}
 ]
